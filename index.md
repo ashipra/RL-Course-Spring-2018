@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to IEOR 8100 Reinforcement Learning (Spring 2018)
 
 You can use the [editor on GitHub](https://github.com/ashipra/RL-Course-Spring-2018/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
